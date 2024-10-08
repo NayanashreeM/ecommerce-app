@@ -1,17 +1,17 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './Pages/Home'
-import Collection from './Pages/Collection'
-import About from "./Pages/About"
-import Contact from "./Pages/Contact"
-import Product from './Pages/Product'
-import Cart from "./Pages/Cart"
-import Login from "./Pages/Login"
-import PlaceOrder from "./Pages/PlaceOrder"
-import Orders from "./Pages/Orders"
-import Navbar from './Components/Common/Navbar'
-import Footer from './Components/Common/Footer'
-import SearchBar from './Components/Common/SearchBar'
+import Home from './pages/Home'
+import Collection from './pages/Collection'
+import About from "./pages/About"
+import Contact from "./pages/Contact"
+import Product from './pages/Product'
+import Cart from "./pages/Cart"
+import Login from "./pages/Login"
+import PlaceOrder from "./pages/PlaceOrder"
+import Orders from './pages/Orders'
+import Navbar from './components/Common/Navbar'
+import Footer from './components/Common/Footer'
+import SearchBar from './components/Common/SearchBar'
 
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
