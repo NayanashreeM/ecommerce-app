@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react'
 import {assets} from "../../assets/assets"
 import { NavLink, Link } from 'react-router-dom'
-import { ShopContext } from '../../Context/ShopContext';
+import { ShopContext } from '../../context/ShopContext';
 
 const Navbar = () => {
 

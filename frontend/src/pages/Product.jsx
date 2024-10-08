@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
-import {ShopContext} from '../Context/ShopContext'
+import {ShopContext} from '../context/ShopContext'
 import { assets } from '../assets/assets';
 import RelatedProducts from '../Components/Products/RelatedProducts';
 
